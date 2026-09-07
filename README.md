@@ -12,7 +12,7 @@
 
 ## Download
 
-[Download the installer](https://spotrobotics.app/fogrider/FogRider_0.7.2_x64-setup.exe) (`FogRider_0.7.2_x64-setup.exe`), or grab it from [Releases](../../releases). Run it, follow the setup wizard, launch FogRider from the Start menu.
+[Download the installer](https://spotrobotics.app/fogrider/FogRider_0.7.3_x64-setup.exe) (`FogRider_0.7.3_x64-setup.exe`), or grab it from [Releases](../../releases). Run it, follow the setup wizard, launch FogRider from the Start menu.
 
 ## Screenshots
 
@@ -49,6 +49,10 @@ More screenshots on the [presentation page](https://spotrobotics.app/fogrider/).
 - **Calendar Heatmap** - a GitHub-style contribution calendar of your riding activity, showing current and longest streaks, active vs. inactive days, and your most active weekday and month.
 
 ## Changelog
+
+### V0.7.3 (2026-09-07)
+
+- Minor internal packaging update
 
 ### V0.7.2 (2026-09-06)
 
